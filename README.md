@@ -1,7 +1,7 @@
 # Olá, eu sou o Lucas!
 
 Estudante de Engenharia de Software (PUCPR)  
-Focado em Backend (Java | Python | Flask | SQL)  
+Focado em Backend (Java | Python | Flask | SQL | C)  
 
 ## Tecnologias
 - Java, Python, JavaScript, PHP, C, GML
