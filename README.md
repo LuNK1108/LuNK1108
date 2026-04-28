@@ -11,7 +11,5 @@
 ## 📌 Projetos em destaque
 - Sistema de Agendamento
 - API de Estoque
-- Sistema de Carrinho
-
 ## 📫 Contato
 Email: Lucs.os1108@gmail.com
