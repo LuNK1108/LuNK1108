@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas!
+# Olá, eu sou o Lucas Oliveira!
 
 Estudante de Engenharia de Software (PUCPR)  
 Focado em Backend (Java | Python | Flask | SQL | C)  
