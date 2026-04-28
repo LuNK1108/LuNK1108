@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas!
 
-<!--
-**LuNK1108/LuNK1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software (PUCPR)  
+💻 Focado em Backend (Java | Python | Flask | SQL)  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Java, Python, JavaScript, PHP
+- Flask, MySQL, PostgreSQL
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- Sistema de Agendamento
+- API de Estoque
+- Sistema de Carrinho
+
+## 📫 Contato
+Email: Lucs.os1108@gmail.com
