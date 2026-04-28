@@ -1,15 +1,15 @@
-# 👋 Olá, eu sou o Lucas!
+# Olá, eu sou o Lucas!
 
-🎓 Estudante de Engenharia de Software (PUCPR)  
-💻 Focado em Backend (Java | Python | Flask | SQL)  
+Estudante de Engenharia de Software (PUCPR)  
+Focado em Backend (Java | Python | Flask | SQL)  
 
-## 🚀 Tecnologias
+## Tecnologias
 - Java, Python, JavaScript, PHP
 - Flask, MySQL, PostgreSQL
 - HTML, CSS
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 - Sistema de Agendamento
 - API de Estoque
-## 📫 Contato
+## Contato
 Email: Lucs.os1108@gmail.com
