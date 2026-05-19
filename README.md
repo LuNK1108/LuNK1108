@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Engenharia+de+Software+-+PUCPR;Java+%7C+Spring+Boot+%7C+Python+%7C+Node.js;APIs+REST+%7C+Banco+de+Dados+%7C+Backend" alt="Typing SVG" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=LuNK1108&color=38BDF8&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 <br>
@@ -28,32 +24,7 @@ Atualmente venho aprimorando meus conhecimentos em **APIs REST, arquitetura de s
 
 ---
 
-## Principais focos
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">Backend</td>
-    <td align="center">APIs REST</td>
-    <td align="center">Spring Boot</td>
-  </tr>
-  <tr>
-    <td align="center">Flask</td>
-    <td align="center">Node.js</td>
-    <td align="center">Banco de Dados</td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
----
-
 ## Tecnologias
-
-<div align="center">
 
 ### Linguagens
 
@@ -93,8 +64,6 @@ Atualmente venho aprimorando meus conhecimentos em **APIs REST, arquitetura de s
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
 
 <br>
 
