@@ -1,10 +1,20 @@
+<div align="center">
+
 # Lucas Oliveira
 
-### Desenvolvedor Backend em formação | Engenharia de Software - PUCPR
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Estudante+de+Engenharia+de+Software+-+PUCPR;Java+%7C+Spring+Boot+%7C+Python+%7C+Node.js;APIs+REST+%7C+Banco+de+Dados+%7C+Backend" alt="Typing SVG" />
 
-Sou estudante de **Engenharia de Software na PUCPR**, com foco em desenvolvimento **Backend**, construção de **APIs REST**, integração com **bancos de dados relacionais** e desenvolvimento de sistemas web.
+</div>
 
-Tenho experiência prática e acadêmica com **Java, Python, Node.js, Flask, Express, SQL, MySQL e PostgreSQL**, aplicando conceitos de organização de código, estruturação de projetos e boas práticas de desenvolvimento.
+---
+
+## Sobre mim
+
+Sou estudante de **Engenharia de Software na PUCPR** e desenvolvedor em formação com foco em **Backend**.
+
+Tenho experiência prática e acadêmica no desenvolvimento de aplicações utilizando **Java, Spring Boot, Python, Node.js, Express, Flask e bancos de dados relacionais**.
+
+Atualmente venho aprimorando meus conhecimentos em **APIs REST, arquitetura de software, integração com banco de dados, organização de projetos e boas práticas de desenvolvimento**.
 
 ---
 
@@ -20,6 +30,7 @@ Tenho experiência prática e acadêmica com **Java, Python, Node.js, Flask, Exp
 
 ### Backend
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -56,12 +67,19 @@ API desenvolvida com **Python, Flask e banco de dados relacional**, aplicando co
 
 O projeto reforça práticas de desenvolvimento backend, organização de endpoints e comunicação com o banco.
 
+### API REST com Java Spring Boot
+
+API desenvolvida com **Java e Spring Boot**, aplicando conceitos de controllers, services, repositories, entidades, rotas REST e integração com banco de dados.
+
+O projeto tem como foco a construção de uma aplicação backend estruturada, seguindo uma organização em camadas e boas práticas de desenvolvimento.
+
 ---
 
 ## Áreas de interesse
 
 - Desenvolvimento Backend
 - APIs REST
+- Java Spring Boot
 - Banco de Dados Relacionais
 - Desenvolvimento Web
 - Arquitetura de Software
@@ -75,3 +93,11 @@ O projeto reforça práticas de desenvolvimento backend, organização de endpoi
 **Email:** Lucs.os1108@gmail.com  
 **Telefone:** (41) 9 9764-5499  
 **GitHub:** [github.com/LuNK1108](https://github.com/LuNK1108)
+
+---
+
+<div align="center">
+
+Desenvolvido por Lucas Oliveira
+
+</div>
