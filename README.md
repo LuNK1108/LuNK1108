@@ -4,9 +4,15 @@
 
 # Lucas Oliveira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Estudante+de+Engenharia+de+Software+-+PUCPR;Java+%7C+Spring+Boot+%7C+Python+%7C+Node.js;APIs+REST+%7C+Banco+de+Dados+%7C+Backend" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Engenharia+de+Software+-+PUCPR;Java+%7C+Spring+Boot+%7C+Python+%7C+Node.js;APIs+REST+%7C+Banco+de+Dados+%7C+Backend" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=LuNK1108&color=38BDF8&style=for-the-badge" alt="Profile views" />
 
 </div>
+
+<br>
 
 ---
 
@@ -18,13 +24,38 @@ Tenho experiência prática e acadêmica no desenvolvimento de aplicações util
 
 Atualmente venho aprimorando meus conhecimentos em **APIs REST, arquitetura de software, integração com banco de dados, organização de projetos e boas práticas de desenvolvimento**.
 
+<br>
+
+---
+
+## Principais focos
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">Backend</td>
+    <td align="center">APIs REST</td>
+    <td align="center">Spring Boot</td>
+  </tr>
+  <tr>
+    <td align="center">Flask</td>
+    <td align="center">Node.js</td>
+    <td align="center">Banco de Dados</td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
 ---
 
 ## Tecnologias
 
-### Linguagens
+<div align="center">
 
-<div align="left">
+### Linguagens
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,40 +63,32 @@ Atualmente venho aprimorando meus conhecimentos em **APIs REST, arquitetura de s
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-</div>
+<br>
 
 ### Backend
-
-<div align="left">
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-</div>
+<br>
 
 ### Banco de Dados
-
-<div align="left">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
+<br>
 
 ### Frontend
-
-<div align="left">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-</div>
+<br>
 
 ### Ferramentas
-
-<div align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -73,89 +96,95 @@ Atualmente venho aprimorando meus conhecimentos em **APIs REST, arquitetura de s
 
 </div>
 
+<br>
+
 ---
 
 ## Projetos em destaque
 
+<div align="center">
+
 <table>
   <tr>
-    <td width="50%">
-      <h3>API REST com Node.js</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">API REST com Node.js</h3>
       <p>
-        API desenvolvida com <strong>Node.js, Express e banco de dados SQL</strong>, 
-        organizada em rotas, controllers e camada de conexão com o banco de dados.
+        API desenvolvida com <strong>Node.js, Express e banco de dados SQL</strong>, organizada em rotas, controllers e camada de conexão com o banco de dados.
       </p>
       <p>
-        O projeto tem como foco a construção de um backend funcional, estruturado e preparado 
-        para operações de cadastro, listagem, atualização e exclusão de dados.
+        Foco em construção de backend funcional, estruturado e preparado para operações de cadastro, listagem, atualização e exclusão de dados.
       </p>
-      <p>
-        <strong>Tecnologias:</strong> Node.js, Express, SQL
+      <p align="center">
+        <strong>Node.js • Express • SQL</strong>
       </p>
     </td>
-    <td width="50%">
-      <h3>API REST com Flask</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">API REST com Flask</h3>
       <p>
-        API desenvolvida com <strong>Python, Flask e banco de dados relacional</strong>, 
-        aplicando conceitos de requisições HTTP, rotas e manipulação de dados.
+        API desenvolvida com <strong>Python, Flask e banco de dados relacional</strong>, aplicando conceitos de requisições HTTP, rotas e manipulação de dados.
       </p>
       <p>
-        O projeto reforça práticas de desenvolvimento backend, organização de endpoints 
-        e comunicação entre aplicação e banco de dados.
+        Foco em organização de endpoints, comunicação com banco de dados e estruturação de aplicações backend.
       </p>
-      <p>
-        <strong>Tecnologias:</strong> Python, Flask, MySQL
+      <p align="center">
+        <strong>Python • Flask • MySQL</strong>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>API REST com Java Spring Boot</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">API REST com Java Spring Boot</h3>
       <p>
-        API desenvolvida com <strong>Java e Spring Boot</strong>, aplicando conceitos de 
-        controllers, services, repositories, entidades e rotas REST.
+        API desenvolvida com <strong>Java e Spring Boot</strong>, aplicando conceitos de controllers, services, repositories, entidades e rotas REST.
       </p>
       <p>
-        O projeto tem como foco a construção de uma aplicação backend estruturada, 
-        seguindo uma organização em camadas e boas práticas de desenvolvimento.
+        Foco em arquitetura em camadas, boas práticas de desenvolvimento e integração com banco de dados.
       </p>
-      <p>
-        <strong>Tecnologias:</strong> Java, Spring Boot, SQL
+      <p align="center">
+        <strong>Java • Spring Boot • SQL</strong>
       </p>
     </td>
-    <td width="50%">
-      <h3>Projetos acadêmicos e pessoais</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Projetos acadêmicos e pessoais</h3>
       <p>
-        Desenvolvimento de sistemas web, APIs, estruturas de dados e aplicações voltadas 
-        para prática de programação e consolidação de conhecimentos.
+        Desenvolvimento de sistemas web, APIs, estruturas de dados e aplicações voltadas para prática de programação.
       </p>
       <p>
-        Os projetos são desenvolvidos com foco em aprendizado contínuo, organização de código 
-        e evolução técnica.
+        Projetos desenvolvidos com foco em aprendizado contínuo, organização de código e evolução técnica.
       </p>
-      <p>
-        <strong>Áreas:</strong> Backend, Banco de Dados, Web
+      <p align="center">
+        <strong>Backend • Banco de Dados • Web</strong>
       </p>
     </td>
   </tr>
 </table>
 
+</div>
+
+<br>
+
 ---
 
-## Áreas de interesse
+## Atualmente estudando
 
-<div align="left">
+<div align="center">
 
-- Desenvolvimento Backend
-- APIs REST
-- Java Spring Boot
-- Banco de Dados Relacionais
-- Desenvolvimento Web
-- Arquitetura de Software
-- Boas práticas de programação
-- Integração entre sistemas
+<table>
+  <tr>
+    <td align="center">Java Spring Boot</td>
+    <td align="center">APIs REST</td>
+    <td align="center">Banco de Dados Relacionais</td>
+  </tr>
+  <tr>
+    <td align="center">Arquitetura de Software</td>
+    <td align="center">Desenvolvimento Backend</td>
+    <td align="center">Boas práticas de código</td>
+  </tr>
+</table>
 
 </div>
+
+<br>
 
 ---
 
@@ -165,15 +194,18 @@ Atualmente venho aprimorando meus conhecimentos em **APIs REST, arquitetura de s
 
 [![Email](https://img.shields.io/badge/Email-Lucas%20Oliveira-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lucs.os1108@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-LuNK1108-181717?style=for-the-badge&logo=github)](https://github.com/LuNK1108)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-137a43322)
+[![Instagram](https://img.shields.io/badge/Instagram-lu.olis-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lu.olis)
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-Construindo soluções backend com foco em organização, aprendizado contínuo e boas práticas de desenvolvimento.
+<strong>Construindo soluções backend com foco em organização, aprendizado contínuo e boas práticas de desenvolvimento.</strong>
 
 </div>
 
