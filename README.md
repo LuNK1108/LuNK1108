@@ -26,44 +26,96 @@ Atualmente venho aprimorando meus conhecimentos em **APIs REST, arquitetura de s
 
 ## Tecnologias
 
-### Linguagens
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-<br>
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-<br>
-
-### Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br>
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-<br>
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+      <br>
+      <strong>Java</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+      <br>
+      <strong>Spring Boot</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+      <br>
+      <strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
+      <br>
+      <strong>Flask</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+      <br>
+      <strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+      <br>
+      <strong>Express</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+      <br>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+      <br>
+      <strong>PHP</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+      <br>
+      <strong>C</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+      <br>
+      <strong>MySQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+      <br>
+      <strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
+      <br>
+      <strong>HTML</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+      <br>
+      <strong>CSS</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+      <br>
+      <strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+      <br>
+      <strong>GitHub</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+      <br>
+      <strong>VS Code</strong>
+    </td>
+  </tr>
+</table>
 
 <br>
 
